@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 php:7.4-apache
 php:8.1-apache
+openjdk:8u102-jre
